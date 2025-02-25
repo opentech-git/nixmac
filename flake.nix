@@ -42,7 +42,6 @@
 	"vlc"
         "freecad"
         "docker"
-        "warp"
         "font-hack-nerd-font"
 	];
         brews = [
